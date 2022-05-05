@@ -1,39 +1,41 @@
-## About Me
+# About Me
 
-hello
+Hello, My name is Tanner Cagle. I'm a software engineer focused on solving problems and getting results with secure and maintanable code. I'm currently working with backend languages such as Python, Java, and C++ and frontend technologies such as Html/Css, JS, and Bootstrap. Let's build something!
 
-You can use the [editor on GitHub](https://github.com/tanner-cagle/business-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<br><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
 
-### Markdown
+A few coding projects I have completed outside of school or work in order to solve problems and have fun.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project 1
+text here.
+Code | Video
 
-```markdown
-Syntax highlighted code block
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+## Projects 2
+text here.
+Code | Video
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
+## Project 3
+text here.
+Code | Video
 
-**Bold** and _Italic_ and `Code` text
+<br><br>
 
-[Link](url) and ![Image](src)
+# Contact Me
+
+**Email** and _tpcagle@gmail.com_
+
+<br>
+
+[LinkedIn](www.linkedin.com/in/tanner-cagle)
+
+<br>
+
+[Resume]([Tanner_Cagle_Resume - Copy.pdf](https://github.com/tanner-cagle/business-portfolio/files/8636649/Tanner_Cagle_Resume.-.Copy.pdf))
+
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanner-cagle/business-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
