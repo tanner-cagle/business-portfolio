@@ -8,19 +8,19 @@ Hello, My name is Tanner Cagle. I'm a software engineer focused on solving probl
 
 A few coding projects I have completed outside of school or work in order to solve problems and have fun.
 
-## Project 1
+### Project 1
 text here.
 Code | Video
 
 <br>
 
-## Projects 2
+### Projects 2
 text here.
 Code | Video
 
 <br>
 
-## Project 3
+### Project 3
 text here.
 Code | Video
 
