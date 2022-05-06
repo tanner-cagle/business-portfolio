@@ -37,6 +37,6 @@ Code | Video
 
 <br>
 
-[Resume]([Tanner_Cagle_Resume - Copy.pdf](https://github.com/tanner-cagle/business-portfolio/files/8636649/Tanner_Cagle_Resume.-.Copy.pdf))
+[Resume](https://github.com/tanner-cagle/business-portfolio/blob/main/Tanner_Cagle_Resume.PDF)
 
 ```
