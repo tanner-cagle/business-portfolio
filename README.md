@@ -9,6 +9,9 @@ Hello, My name is Tanner Cagle. I'm a software engineer focused on solving probl
 A few coding projects I have completed outside of school or work in order to solve problems and have fun.
 
 ### Project 1: Monster Chamber
+
+![This is an image](fantasyimage.png)
+
 Monster Chamber is a coding challenge where I used minimal libraries to create a fun text-based RPG. I had to implement unique solutions to the many technical issues that arose throughout the development process.
 Technologies used: Python
 
