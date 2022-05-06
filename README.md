@@ -28,7 +28,7 @@ Technologies used: HTML, CSS, Bootstrap
 Warhammer Squire is an app developed to assist a player with the rules and flow of the popular tabletop game Warhammer: Age of Sigmar (2nd edition).
 Technologies used: Python
 
-[Code](link) | Video
+[Code](https://github.com/tanner-cagle/warhammer-butler.git) | Video
 
 <br><br>
 
