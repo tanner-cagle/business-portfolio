@@ -17,7 +17,7 @@ Monster Chamber is a coding challenge where I used minimal libraries to create a
 
 ### Projects 2: Champion Guides
 text here.
-Code | Video
+[Code](https://github.com/tanner-cagle/lol-guides-jax.git) | Video
 
 <br>
 
