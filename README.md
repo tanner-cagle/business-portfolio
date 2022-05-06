@@ -45,6 +45,6 @@ Technologies used: Python
 
 **Email**: _tpcagle@gmail.com_
 
-**LinkedIn**: [Here](www.linkedin.com/in/tanner-cagle)
+**LinkedIn**: _www.linkedin.com/in/tanner-cagle_
 
 **Resume**: [Here](https://github.com/tanner-cagle/business-portfolio/blob/main/Tanner_Cagle_Resume.PDF)
