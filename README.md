@@ -26,7 +26,7 @@ Technologies used: HTML, CSS, Bootstrap
 
 ### Project 3: Warhammer Squire
 Warhammer Squire is an app developed to assist a player with the rules and flow of the popular tabletop game Warhammer: Age of Sigmar (2nd edition).
-Technologies used: Java
+Technologies used: Python
 
 [Code](link) | Video
 
@@ -34,8 +34,8 @@ Technologies used: Java
 
 # Contact Me
 
-**Email** _tpcagle@gmail.com_
+**Email**: _tpcagle@gmail.com_
 
-[LinkedIn](www.linkedin.com/in/tanner-cagle)
+**LinkedIn**: [Here](www.linkedin.com/in/tanner-cagle)
 
-[Resume](https://github.com/tanner-cagle/business-portfolio/blob/main/Tanner_Cagle_Resume.PDF)
+**Resume**: [Here](https://github.com/tanner-cagle/business-portfolio/blob/main/Tanner_Cagle_Resume.PDF)
