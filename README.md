@@ -20,7 +20,7 @@ Technologies used: Python
 
 <br>
 
-### Projects 2: LoL Guides - Jax
+### Project 2: LoL Guides - Jax
 
 <img width="944" alt="Capture" src="https://user-images.githubusercontent.com/104815369/167212383-906941c0-e417-404e-8763-dd0173ce4471.PNG">
 
