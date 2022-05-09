@@ -10,11 +10,11 @@ Some of the coding projects I have completed outside of school or work in order 
 
 ### Project 1: Monster Chamber
 
-![fantasy image](https://github.com/tanner-cagle/business-portfolio/blob/main/MC%20Screenshots/big-battle.PNG)
+![fantasy image](https://github.com/tanner-cagle/business-portfolio/blob/main/fantasy%20image.jpg)
 
 Monster Chamber is a coding challenge where I used minimal libraries to create a fun text-based RPG. I had to implement many solutions to the unique technical issues that arose throughout the development process. I also focused on good coding practices, OOP, and readability. 5000+ lines and counting!
 
-Technologies used: Python
+Technologies used: Python, Trello, OneNote
 
 [Code](https://github.com/tanner-cagle/monster-chamber.git) | Video
 
