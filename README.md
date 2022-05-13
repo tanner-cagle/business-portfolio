@@ -38,9 +38,7 @@ Warhammer Butler is an app developed to assist a player with the rules and flow 
 
 Technologies used: Python
 
-[Code](https://github.com/tanner-cagle/warhammer-butler.git) | Video Below:
-
-https://user-images.githubusercontent.com/104815369/168013965-224065e6-c32a-4692-97f6-4036707acd0b.mp4
+[Code](https://github.com/tanner-cagle/warhammer-butler.git) | [Demo](https://user-images.githubusercontent.com/104815369/168013965-224065e6-c32a-4692-97f6-4036707acd0b.mp4)
 
 <br><br>
 
