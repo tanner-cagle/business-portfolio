@@ -14,9 +14,7 @@ Monster Chamber is a coding challenge where I used minimal libraries to create a
 
 Technologies used: Python, Trello, OneNote
 
-[Code](https://github.com/tanner-cagle/monster-chamber.git) | Video Below:
-
-https://user-images.githubusercontent.com/104815369/168012498-e008767e-cb97-4b7c-bc5a-4dcd68c0753a.mp4
+[Code](https://github.com/tanner-cagle/monster-chamber.git) | [Demo](https://user-images.githubusercontent.com/104815369/168012498-e008767e-cb97-4b7c-bc5a-4dcd68c0753a.mp4)
 
 <br>
 
@@ -26,9 +24,7 @@ LoL Guides - Jax is an easy-to-use website for learning how to play the champion
 
 Technologies used: HTML, CSS, Bootstrap
 
-[Code](https://github.com/tanner-cagle/lol-guides-jax.git) | Video Below:
-
-https://user-images.githubusercontent.com/104815369/168014526-9cde7806-b91b-4236-91e2-dc43f1ede62b.mp4
+[Code](https://github.com/tanner-cagle/lol-guides-jax.git) | [Demo](https://user-images.githubusercontent.com/104815369/168014526-9cde7806-b91b-4236-91e2-dc43f1ede62b.mp4)
 
 <br>
 
