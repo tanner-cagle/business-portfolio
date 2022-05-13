@@ -30,7 +30,7 @@ Technologies used: HTML, CSS, Bootstrap
 
 ### Project 3: Warhammer Butler
 
-Warhammer Butler is an app developed to assist a player with the rules and flow of the popular tabletop game Warhammer: Age of Sigmar (2nd edition). It allows the user to submit info for new units, create armies, and even offers a step-by-step guide for all phases of each turn.
+Warhammer Butler is an app developed to assist a player with the rules and flow of the popular tabletop game Warhammer: Age of Sigmar (2nd edition). It allows the user to submit data for new units, view/edit/delete existing units, create armies, save data between uses, and even offers a step-by-step guide for all phases of each turn.
 
 Technologies used: Python
 
